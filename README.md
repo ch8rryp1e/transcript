@@ -42,7 +42,7 @@ Transcriptions are saved in the same directory as the original files with `_tran
 
 ## Supported Languages
 
-auto, en, es, fr, de, ru
+en, es, fr, de, ru
 
 ## Supported Formats
 
